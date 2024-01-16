@@ -1,4 +1,4 @@
-# just-the-docs-template
+# Documentation for Coastal Ocean Dynamics course
 
 Hi this is Suman!
 
